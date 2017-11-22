@@ -1,3 +1,3 @@
 # other
 
-Different project
+Different projects
